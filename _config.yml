@@ -5,20 +5,20 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Push the Envelope. Watch it Bend.'
+description: "My thoughts on people, process and technology."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Justin Holmes'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+nickname: justin
+bio: 'Business Automation Practice Lead @ Red Hat, Behavior Driven Development evangelist and fan of the simplest thing that works.'
+location: 'NYC, USA'
+url: 'http://sherl0cks.github.io/'
+image: 'assets/images/Justin.jpg'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url: 'http://sherl0cks.github.io/'
+google_analytics: UA-74986402-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
