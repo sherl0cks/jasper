@@ -1,9 +1,9 @@
 ---
 layout: post
-cover: 'assets/images/chambers_street_station.jpg'
-title: Selecting A Blog Platform
-date:   2016-03-10 16:49:00
-tags: Blog-Frameworks
+cover: 'assets/images/cover5.jpg'
+title: Introducing the Business Automation Design Patterns
+date:   2016-04-05 15:04:00
+tags: Business-Automation Design-Patterns BxMS
 subclass: 'post tag-blogs tag-content'
 categories: 'Justin'
 navigation: True
