@@ -70,7 +70,9 @@ class: 'post-template'
                 {% endif %}
                 <div class="author-meta">
                     {% if site.location %}<span class="author-location icon-location"> {{ site.location }}</span>{% endif %}
-                    {% if site.url %}<span class="author-link icon-link"><a href="{{ site.url }}"> {{ site.short_url }}</a></span>{% endif %}
+                    <!--
+                    {% if site.url %}<span class="author-link icon-link"><a href="{{ site.url }}"> {{ site.short_url }}</a></span>{% endif %} -->
+                    <span class="author-link icon-link"><a href="mailto:jholmes@redhat.com" target="_blank">Contact Me</a></span>
                 </div>
             </section>
 
