@@ -40,3 +40,7 @@ To understand how the code actually uses these properties, the [UserServiceDataP
 ### Using KIE Workbench / Business Central
 
 This is a different can of worms, so you'll want to check out the [Red Hat solution article on the subject](https://access.redhat.com/solutions/1149763).
+
+### Credits
+
+Thanks to [Justin Goldsmith helping](https://www.linkedin.com/in/justingoldsmith) me dig into the subject.
