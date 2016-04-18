@@ -28,7 +28,7 @@ Since most custom UI implementations will choose to use a service account to han
 
 There are the [system properties](https://access.redhat.com/documentation/en-US/Red_Hat_JBoss_BPM_Suite/6.2/html/User_Guide/Realtime_Decision_Server_Setup.html#Bootstrap_switches) that we'll need to configure in order to get the desired behavior:
 
-- `org.kie.server.bypass.auth.user = false` to bypass JAAS when querying the human task engine
+- `org.kie.server.bypass.auth.user = true` to bypass JAAS when querying the human task engine
 - `org.jbpm.ht.callback = ldap|db|mvel|props|jaas|custom` to set an alternate method for retrieving user/group/role information.
 - `org.jbpm.ht.custom.callback = your.custom.class` to write your own `UserGroupCallback`. [Learn more](https://access.redhat.com/solutions/1149763) on the Red Hat Customer Portal.
 - `org.jbpm.ht.userinfo = ldap|db|props|custom` to get the actual user data
